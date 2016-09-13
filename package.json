@@ -1,0 +1,30 @@
+{
+  "name": "electron-asar-modularupdater",
+  "version": "0.0.1",
+  "description": "Check update for electron modular asar files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "autoupdate",
+    "asar",
+    "update",
+	"modular"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedeadofblackfire/electron-asar-modularupdater.git"
+  },
+  "author": {
+    "name": "thedeadofblackfire",
+    "email": "thedeadofblackfire@yahoo.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "got": "^6.3.0",
+	"adm-zip": "^0.4.7",
+    "restler": "^3.4.0"
+  }
+}
