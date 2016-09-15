@@ -1,6 +1,6 @@
 {
   "name": "electron-asar-modularupdater",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check update for electron modular asar files",
   "main": "index.js",
   "scripts": {
